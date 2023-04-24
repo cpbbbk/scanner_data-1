@@ -1818,20 +1818,6 @@
       ]
     },
     {
-      "s": "BITFINEX:ALGBTC",
-      "f": [
-        "Bitalgo",
-        "ALG"
-      ]
-    },
-    {
-      "s": "BITFINEX:ALGUSD",
-      "f": [
-        "Bitalgo",
-        "ALG"
-      ]
-    },
-    {
       "s": "HITBTC:BTBBTC",
       "f": [
         "BitBall",
